@@ -36,6 +36,7 @@ Figure -02 HALF Subtractor
 **Truthtable**
 
 **Procedure**
+<img width="595" height="627" alt="Screenshot 2025-10-17 093807" src="https://github.com/user-attachments/assets/f25c87e5-b43f-49fb-8979-d05a9596c742" />
 
 1.	Type the program in Quartus software.
 
@@ -55,7 +56,10 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
+<img width="761" height="676" alt="Screenshot 2025-10-17 092433" src="https://github.com/user-attachments/assets/75a13107-abad-4e6e-be46-474f96a6075c" />
 
 **Output/TIMING Waveform**
+<img width="1624" height="452" alt="Screenshot 2025-10-17 092452" src="https://github.com/user-attachments/assets/577b23a0-954a-48e5-94f6-8474e70fcffe" />
 
 **Result:**
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
